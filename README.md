@@ -2,7 +2,7 @@
 
 ### Try it [here](https://guillaumeauger85.github.io/Random-Color-Exercise/)
 
-![HtmlCssJs](https://user-images.githubusercontent.com/49698792/181607506-63f667ba-0501-4008-a4de-3849f4ec654f.png)
+![HtmlCssJs](https://user-images.githubusercontent.com/49698792/182230263-41ace10b-efd5-4fa4-9195-3ffa19b1f895.png)
 
 DOM manipulation exercise from [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course.
 
