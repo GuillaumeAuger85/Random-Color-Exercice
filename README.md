@@ -1,4 +1,4 @@
-# Random-Color-Exercise
+# Random Color Exercise
 
 ### Try it [here](https://guillaumeauger85.github.io/Random-Color-Exercise/)
 
